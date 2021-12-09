@@ -1,0 +1,179 @@
+@media(max-width:768px){
+        .img1{
+            padding-left: 5rem;
+        }
+
+        .one{
+            display: none;
+        }
+
+    .two{
+        left: 3rem;
+    }
+
+    .three{
+        top: 1rem;
+        left: 10.4rem;
+    }
+
+    .four{
+        position: relative;
+        left: 10rem;
+        top:22rem;
+    }
+
+    .five{
+        display: none;
+    }
+
+    .imge{
+        left: 15.3rem;
+        width: 24.1rem;
+        top: 3rem;
+    }
+
+    .imge h1{
+        margin-top: .8rem;
+    }
+
+    .imge p{
+        margin-top: 1.7rem;
+    }
+
+    
+    .imge1{
+        left: 15.3rem;
+        width: 24.1rem;
+        top: 31rem;
+    }
+
+    .imge1 h1{
+        margin-top: .8rem;
+    }
+
+    .imge1 h3{
+        margin-top: 1.3rem;
+    }
+
+    .imge1 p{
+        margin-top: .9rem;
+    }
+
+    .imge2{
+        display: none;
+    }
+
+    .imge3{
+        left: 1rem;
+        width:13rem ;
+    }
+
+    .imge4{
+        left: 18rem;
+        width: 13rem;
+    }
+
+    .imge5{
+        left: 33rem;
+        width: 13rem;
+    }
+
+    .imge6{
+        display: none;
+    }
+}
+
+@media(max-width:480px){
+    .img1{
+        padding-left: 5rem;
+    }
+
+    .one{
+        display: none;
+    }
+
+.two{
+    left: 2rem;
+    width: 80%;
+    font-size: 3rem;
+}
+
+.two h3{
+    font-size: 3rem;
+}
+
+.three{
+    top: 1rem;
+    left: 1.4rem;
+}
+
+.four{
+    position: relative;
+    left: 1.4rem;
+    top:22rem;
+}
+
+.five{
+    display: none;
+}
+
+.imge{
+    left: 3.3rem;
+    width: 24.1rem;
+    top: 3rem;
+}
+
+.imge h1{
+    margin-top: .8rem;
+}
+
+.imge p{
+    margin-top: 1.7rem;
+}
+
+
+.imge1{
+    left: 3.3rem;
+    width: 24.1rem;
+    top: 31rem;
+}
+
+.imge1 h1{
+    margin-top: .8rem;
+}
+
+.imge1 h3{
+    margin-top: 1.3rem;
+}
+
+.imge1 p{
+    margin-top: .9rem;
+}
+
+.imge2{
+    display: none;
+}
+
+.imge3{
+    top:1rem;
+    left: 8rem;
+    width:13rem ;
+}
+
+.imge4{
+    left: 8rem;
+    width: 13rem;
+}
+
+.imge5{
+    display: none;
+}
+
+.imge6{
+    display: none;
+}
+
+.footer{
+    display: none;
+}
+}
